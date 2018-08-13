@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package vendor.lineage.id@1.0;
+package vendor.slim.id@1.0;
 
 interface ISerialNumber {
     getSerialNumber() generates (string serial);
